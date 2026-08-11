@@ -55,9 +55,9 @@ The analysis uses SQL to answer key business questions and Power BI to present t
 
 ## Project Files
 
-- *instacart_analysis.sql* – SQL queries used to perform the analysis.
-- *instacart_dashboard.pdf* – Complete dashboard and project report.
-- *dashboard_overview.jpg* – Power BI dashboard preview.
+- [instacart_analysis.sql](instacart_analysis.sql) – SQL queries used to perform the analysis.
+- [instacart_dashboard.pdf](instacart_dashboard.pdf) – Complete dashboard and project report.
+- [dashboard_overview.jpg](dashboard_overview.jpg) – Power BI dashboard preview.
 
 ## Skills Demonstrated
 
